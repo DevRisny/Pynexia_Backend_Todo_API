@@ -1,0 +1,15 @@
+{
+  "name": "todo-list-backend",
+  "version": "1.0.0",
+  "description": "To-Do List App Backend - Express REST API with SQLite (Pynexia Backend Internship, Week 1)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "express": "^4.21.0"
+  },
+  "license": "MIT"
+}
